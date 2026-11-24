@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Mechanikus billentyűzet",
+      "price": 18990,
+      "date": "2026-01-18",
+      "active": true
+    },
+    {
+      "id": "3",
+      "name": "Ergonomikus egér",
+      "price": 8990,
+      "date": "2026-02-03",
+      "active": false
+    },
+    {
+      "id": "4",
+      "name": "Rozsdamentes kulacs",
+      "price": 4990,
+      "date": "2026-02-11",
+      "active": true
+    },
+    {
+      "id": "5",
+      "name": "Asztali LED lámpa",
+      "price": 7290,
+      "date": "2026-02-20",
+      "active": true
+    },
+    {
+      "id": "6",
+      "name": "Városi hátizsák",
+      "price": 12990,
+      "date": "2026-03-02",
+      "active": true
+    },
+    {
+      "id": "7",
+      "name": "Pamut póló",
+      "price": 3990,
+      "date": "2026-03-09",
+      "active": false
+    },
+    {
+      "id": "8",
+      "name": "Rozsdamentes serpenyő",
+      "price": 10990,
+      "date": "2026-03-14",
+      "active": true
+    },
+    {
+      "id": "9",
+      "name": "Kerámia kávéscsésze",
+      "price": 2590,
+      "date": "2026-04-01",
+      "active": true
+    },
+    {
+      "name": "asd",
+      "price": 13,
+      "date": "2026-11-10",
+      "active": true,
+      "id": "7dwSYZHQL4M"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
